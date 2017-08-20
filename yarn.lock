@@ -204,9 +204,9 @@ htmlparser2@3.9.2:
     inherits "^2.0.1"
     readable-stream "^2.0.2"
 
-idomview@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/idomview/-/idomview-3.1.0.tgz#12f347f751f74375ee0885066334bfb5bd121c64"
+idomview@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/idomview/-/idomview-3.2.0.tgz#7d91a5a9d38580ef29d04accda31064b118e395e"
   dependencies:
     document-register-element "1.3.0"
     dom-delegate "2.0.3"
@@ -468,8 +468,8 @@ tsutils@^2.7.1:
     tslib "^1.7.1"
 
 typescript@^2.4.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.5.0.tgz#60989e74cad93c28fe35f7f7b41fe9b205a25701"
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.5.1.tgz#ce7cc93ada3de19475cc9d17e3adea7aee1832aa"
 
 util-deprecate@~1.0.1:
   version "1.0.2"

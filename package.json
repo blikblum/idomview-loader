@@ -22,10 +22,13 @@
   "devDependencies": {
     "mocha": "^3.4.2",
     "tslint": "^5.4.3",
-    "typescript": "^2.4.0"
+    "typescript": "^2.4.0",
+    "idomview": "^3.2.0"
+  },
+  "peerDependencies": {
+    "idomview": "^3.2.0"
   },
   "dependencies": {
-    "idomview": "^3.1.0",
     "loader-utils": "^1.1.0"
   }
 }
