@@ -1,5 +1,5 @@
 import * as loaderUtils from 'loader-utils';
-import * as superviews from 'superviews.js';
+import * as superviews from 'idomview';
 
 interface LoaderOption {
   argstr?: string;

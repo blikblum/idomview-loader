@@ -1,6 +1,6 @@
 {
-  "name": "superviews-loader",
-  "version": "0.0.6",
+  "name": "idomview-loader",
+  "version": "0.1.0",
   "description": "loader module using superviews.js (by davidjamesstone) for webpack.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "webpack",
     "loader",
     "incremental-dom",
-    "superviews.js"
+    "idomview"
   ],
   "author": "nishizawa <nishiza.m@gmail.com>",
   "license": "MIT",
@@ -25,7 +25,7 @@
     "typescript": "^2.4.0"
   },
   "dependencies": {
-    "loader-utils": "^1.1.0",
-    "superviews.js": "^3.0.4"
+    "idomview": "^3.1.0",
+    "loader-utils": "^1.1.0"
   }
 }
